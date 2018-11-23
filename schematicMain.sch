@@ -6913,7 +6913,7 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 </part>
 <part name="U$1" library="RPI-Zero" deviceset="RPI-ZERO" device=""/>
 <part name="U$2" library="diy-modules" deviceset="TEMP-HUM-SENSOR-DHT11" device=""/>
-<part name="D9" library="SparkFun-LED" library_urn="urn:adsk.eagle:library:529" deviceset="LED-RGB" device="PLCC-6" package3d_urn="urn:adsk.eagle:package:39373/1" value="RGB"/>
+<part name="D9" library="SparkFun-LED" library_urn="urn:adsk.eagle:library:529" deviceset="LED-RGB" device="NO_IC" package3d_urn="urn:adsk.eagle:package:39374/1" value="RGB"/>
 <part name="PIR" library="con-wago-500" library_urn="urn:adsk.eagle:library:195" deviceset="W237-103" device="" package3d_urn="urn:adsk.eagle:package:10691/1"/>
 <part name="DOOR" library="con-wago-500" library_urn="urn:adsk.eagle:library:195" deviceset="W237-102" device="" package3d_urn="urn:adsk.eagle:package:10688/1"/>
 <part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="M1206" package3d_urn="urn:adsk.eagle:package:23566/1" value="1K"/>
@@ -6995,7 +6995,6 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 </instance>
 <instance part="D9" gate="G$1" x="22.86" y="104.14" smashed="yes" rot="R90">
 <attribute name="NAME" x="17.145" y="104.14" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="28.575" y="104.14" size="1.778" layer="95" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="PIR" gate="-1" x="55.88" y="137.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="56.769" y="137.16" size="1.778" layer="95" rot="R90"/>
